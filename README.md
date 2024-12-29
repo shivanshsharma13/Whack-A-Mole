@@ -17,8 +17,7 @@ Welcome to the **Whack-A-Mole** game project! This is a fun and interactive brow
 
 - **HTML5**: Markup structure for the game interface.
 - **CSS3**: Styling for the game elements.
-- **JavaScript (Vanilla)**: Core functionality and interactivity.
-- And 💌
+- **JavaScript (Vanilla)**: Core functionality and interactivity,and 💌
 
 ---
 
